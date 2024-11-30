@@ -12,26 +12,31 @@ Temas:
  
  (Apague essa seção)
 
-# NomedoProjeto
+# Grafos2_LeetCode
 
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Número da Lista**: 3<br>
+**Conteúdo da Disciplina**: Grafos2<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 22/2037648  |  André Cláudio Maia da Cunha |
+| 21/1062713 |  	Paola Rebeca Lima do Nascimento |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Neste trabalho, exercitaremos os seguintes conteúdos:
+- SCC;
+- Dijkstra;
+- MST utilizando Prim.
 
+Faremos isso, respondendo questões de nível difícil do LeetCode, referente a um dos três conteúdos mencionados acima. As questões que responderemos serão:
+- [Problema 1192](https://leetcode.com/problems/critical-connections-in-a-network/description/)
+- [Problema 743](https://leetcode.com/problems/network-delay-time/description/)
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
+**Linguagem**: Python3<br>
 Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
 
 ## Uso 
