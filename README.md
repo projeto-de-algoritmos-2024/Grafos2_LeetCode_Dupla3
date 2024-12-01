@@ -10,15 +10,15 @@
 | 21/1062713 |  	Paola Rebeca Lima do Nascimento |
 
 ## Sobre 
-Neste trabalho, exercitaremos os seguintes conteúdos:
+Neste trabalho, focaremos nos seguintes conteúdos:
 - SCC;
 - Dijkstra;
-- Algoritmo de Prim.
 
-Faremos isso, respondendo questões de nível difícil do LeetCode, referente a um dos três conteúdos mencionados acima. As questões que responderemos serão:
+Faremos isso, respondendo questões de níveis difíceis e médias do LeetCode, referente a um dos três conteúdos mencionados acima. As questões que responderemos serão:
 - [Problema 1192](https://leetcode.com/problems/critical-connections-in-a-network/description/)
+- [Problema 1557](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/description/)
 - [Problema 743](https://leetcode.com/problems/network-delay-time/description/)
-- [Problema 1368](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/description/)
+- [Problema 1293](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/description/)
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
 
