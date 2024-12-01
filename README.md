@@ -13,11 +13,12 @@
 Neste trabalho, exercitaremos os seguintes conteúdos:
 - SCC;
 - Dijkstra;
-- MST utilizando Prim.
+- Algoritmo de Prim.
 
 Faremos isso, respondendo questões de nível difícil do LeetCode, referente a um dos três conteúdos mencionados acima. As questões que responderemos serão:
 - [Problema 1192](https://leetcode.com/problems/critical-connections-in-a-network/description/)
 - [Problema 743](https://leetcode.com/problems/network-delay-time/description/)
+- [Problema 1368](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/description/)
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
 
