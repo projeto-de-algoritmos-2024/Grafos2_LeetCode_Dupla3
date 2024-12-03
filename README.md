@@ -36,6 +36,9 @@ Faremos isso, respondendo questões de níveis difíceis e médias do LeetCode, 
 ## Uso 
 Copie o código da questão e cole no respectivo problema no LeetCode. Após isso, clique em "submit" para ver o Online Judge verificando se a solução é válida.
 
+## Link do vídeo
+-[Clique Aqui!](https://youtu.be/nbZr4rKi9qk)
+
 
 
 
